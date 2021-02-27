@@ -59,3 +59,20 @@
 |9|HTTP Client|[codeSquad-mastersCourse/cs10/cs_9](https://github.com/jjunyjjuny/codeSquad-mastersCourse/tree/cs10/cs10/cs_9)|PR | Record |
 |10|차트 그리기|[codeSquad-mastersCourse/cs10/cs_10](https://github.com/jjunyjjuny/codeSquad-mastersCourse/tree/cs10/cs10/cs_10)|PR | Record |
 
+## 마스터즈 FE 클래스
+
+### 📆 기간 
+
+2021.2.8 - now
+
+### 🎯 학습 목표
+
+- 프론트엔드 개발자로 성장
+- HTML / CSS / JavaScript
+
+### 📄 Do
+
+| step | name | repository | PR | Record |
+|:---:|:---:|:---:|:---:|:---: |
+|1|Airbnb 메인화면 클론코딩|[codeSquad-mastersCourse/cs10/cs_1](https://github.com/codesqurd-master-DD/fe-w12-airbnb)|PR | Record |
+
