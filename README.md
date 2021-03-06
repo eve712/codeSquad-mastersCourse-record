@@ -76,6 +76,10 @@
 |:---:|:---:|:---:|:---:|:---: |
 |1-2|Airbnb 메인화면 클론코딩|[codesqurd-master-DD/fe-w12-airbnb](https://github.com/codesqurd-master-DD/fe-w12-airbnb)| PR | Record |
 |3|쇼핑하우 클론코딩(근데 다른거 함..)|[codesqurd-master-DD/fe-w3-shopping](https://github.com/codesqurd-master-DD/fe-w3-shopping)| PR | Record |
-|4|마크 와트니와 통신하라|[codesqurd-master-DD/fe-w4-martian](https://github.com/codesqurd-master-DD/fe-w4-martian)| PR | Record |
+|4|마크 와트니와 통신하라|[codesqurd-master-DD/fe-w4-martian](https://github.com/codesqurd-master-DD/fe-w4-martian)| [step1](https://github.com/codesquad-members-2021/fe-w4-martian/pull/7)
+[step2](https://github.com/codesquad-members-2021/fe-w4-martian/pull/29)
+[step3](https://github.com/codesquad-members-2021/fe-w4-martian/pull/48)
+[step4](https://github.com/codesquad-members-2021/fe-w4-martian/pull/77)
+ | Record |
 |5| - |[-]()| PR | Record |
 
