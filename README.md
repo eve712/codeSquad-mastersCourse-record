@@ -4,7 +4,7 @@
 
 ### 📆 기간 
 
-2021.12.7 - 2021.12.13
+2021.12.07 - 2021.12.13
 
 ### 📄 Do
 
@@ -18,7 +18,7 @@
 
 ### 📆 기간 
 
-2022.12.23 - 2021.1.4
+2022.12.23 - 2021.01.04
 
 ### 🎯 학습 목표
 
@@ -38,7 +38,7 @@
 
 ### 📆 기간 
 
-2021.1.4 - 2021.2.5
+2021.01.04 - 2021.02.05
 
 ### 🎯 학습 목표
 
@@ -63,7 +63,7 @@
 
 ### 📆 기간 
 
-2021.2.8 - now
+2021.02.08 - now
 
 ### 🎯 학습 목표
 
@@ -77,5 +77,30 @@
 |1-2|Airbnb 메인화면 클론코딩|[codesqurd-master-DD/fe-w12-airbnb](https://github.com/codesqurd-master-DD/fe-w12-airbnb)| [1](https://github.com/codesquad-members-2021/fe-w12-airbnb/pull/30)<br/>[2](https://github.com/codesquad-members-2021/fe-w12-airbnb/pull/35)<br/>[3](https://github.com/codesquad-members-2021/fe-w12-airbnb/pull/63)<br/>[4](https://github.com/codesquad-members-2021/fe-w12-airbnb/pull/101)<br/>[5](https://github.com/codesquad-members-2021/fe-w12-airbnb/pull/146)<br/>[6](https://github.com/codesquad-members-2021/fe-w12-airbnb/pull/171)| Record |
 |3|쇼핑하우 클론코딩(근데 다른거 함..)|[codesqurd-master-DD/fe-w3-shopping](https://github.com/codesqurd-master-DD/fe-w3-shopping)| [1](https://github.com/codesquad-members-2021/fe-w3-shopping/pull/17)<br/>[2](https://github.com/codesquad-members-2021/fe-w3-shopping/pull/25)<br/>[3](https://github.com/codesquad-members-2021/fe-w3-shopping/pull/48)<br/>[4](https://github.com/codesquad-members-2021/fe-w3-shopping/pull/78)<br/>| Record |
 |4|마크 와트니와 통신하라|[codesqurd-master-DD/fe-w4-martian](https://github.com/codesqurd-master-DD/fe-w4-martian)| [step1](https://github.com/codesquad-members-2021/fe-w4-martian/pull/7)<br/>[step2](https://github.com/codesquad-members-2021/fe-w4-martian/pull/29)<br/>[step3](https://github.com/codesquad-members-2021/fe-w4-martian/pull/48)<br/>[step4](https://github.com/codesquad-members-2021/fe-w4-martian/pull/77) | Record |
-|5| - |[-]()| PR | Record |
+|5| 쇼핑하우 검색창 |[codesqurd-master-DD/fe-w5-searchUI](https://github.com/codesqurd-master-DD/fe-w5-searchUI)| PR | Record |
+|6| 자유주제 |[codesqurd-master-DD/fe-w6-free-style](https://github.com/codesqurd-master-DD/fe-w6-free-style)| PR | Record |
+
+## Deact 만들기
+
+### 📆 기간
+
+2021.02.16 ~ now
+
+### 🎯 학습 목표
+
+- 자체 Component UI 프레임 워크 제작
+- 프레임워크를 직접 만들어보며 React에 대해 공부하고, 필요성을 몸소 체험해본다
+
+### 📄 개발일지
+
+| step | PR |
+|:---:|:---:|
+| 1 | [Pull Request](https://github.com/codesquad-members-2021/fe-w12-airbnb/pull/101) |
+| 2 | [Pull Request](https://github.com/codesquad-members-2021/fe-w12-airbnb/pull/146) |
+| 3 | [Pull Request](https://github.com/codesquad-members-2021/fe-w12-airbnb/pull/171) |
+| 4 | [Pull Request](https://github.com/codesquad-members-2021/fe-w3-shopping/pull/48) |
+| 5 | [Pull Request](https://github.com/codesquad-members-2021/fe-w3-shopping/pull/78) |
+| 6 | [Pull Request](https://github.com/codesquad-members-2021/fe-w5-searchUI/pull/62) |
+| 7 | [Pull Request](https://github.com/codesquad-members-2021/fe-w6-free-style/pull/23) |
+| 8 | [Pull Request](link) |
 
