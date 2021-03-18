@@ -107,6 +107,4 @@
 | 6 | [Pull Request](https://github.com/codesquad-members-2021/fe-w5-searchUI/pull/62) |
 | 7 | [Pull Request](https://github.com/codesquad-members-2021/fe-w6-free-style/pull/23) |
 | 8 | [Pull Request](https://github.com/codesquad-members-2021/fe-w6-free-style/pull/51) |
-| 9 | [Pull Request](Link) |
-| 10 | [Pull Request](Link) |
 
