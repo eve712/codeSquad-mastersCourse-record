@@ -63,7 +63,7 @@
 
 ### 📆 기간 
 
-2021.02.08 - now
+2021.02.08 - 2021.04.02
 
 ### 🎯 학습 목표
 
@@ -79,6 +79,26 @@
 |4|마크 와트니와 통신하라|[codesqurd-master-DD/fe-w4-martian](https://github.com/codesqurd-master-DD/fe-w4-martian)| [step1](https://github.com/codesquad-members-2021/fe-w4-martian/pull/7)<br/>[step2](https://github.com/codesquad-members-2021/fe-w4-martian/pull/29)<br/>[step3](https://github.com/codesquad-members-2021/fe-w4-martian/pull/48)<br/>[step4](https://github.com/codesquad-members-2021/fe-w4-martian/pull/77) | Record |
 |5| 쇼핑하우 검색창 |[codesqurd-master-DD/fe-w5-searchUI](https://github.com/codesqurd-master-DD/fe-w5-searchUI)| PR | Record |
 |6| 자유주제 |[codesqurd-master-DD/fe-w6-free-style](https://github.com/codesqurd-master-DD/fe-w6-free-style)| PR | Record |
+|7| 자판기 만들기(페어) |[codesqurd-master-DD/fe-w7-vm](https://github.com/codesqurd-master-DD/fe-w7-vm)| PR | Record |
+|8| json parser |[codesqurd-master-DD/fe-w8-json-parser](https://github.com/codesqurd-master-DD/fe-w8-json-parser)| PR | Record |
+
+## 마스터즈 프로젝트
+
+### 📆 기간
+
+2021.04.06 ~ now
+
+### 🎯 학습 목표
+
+  - 협업으로 팀 프로젝트 진행 경험 쌓기
+  - 백엔드와 협업 경험
+  - 그 동안 배운 지식을 실제 프로젝트에 적용해보자
+
+### 📄 Do
+
+| step | name | repository | PR | Record |
+|:---:|:---:|:---:|:---:|:---: |
+|1|todolist|[codesqurd-master-DD/todo-list](https://github.com/codesqurd-master-DD/todo-list)|PR|Record |
 
 ## Deact 만들기
 
