@@ -14,6 +14,9 @@
 |2|평면 큐브 구현하기|[codeSquad-mastersCourse-1st_test](https://github.com/jjunyjjuny/codeSquad-mastersCourse-1st_test/tree/step-2)|
 |3|루빅스 큐브 구현하기|[codeSquad-mastersCourse-1st_test](https://github.com/jjunyjjuny/codeSquad-mastersCourse-1st_test/tree/step-3)|
 
+<br/>
+<hr/>
+
 ## FreeScholl 
 
 ### 📆 기간 
@@ -33,6 +36,9 @@
 |3|다각형의 넓이 구하기|[codeSquad-mastersCourse/freeSchool/part_3](https://github.com/jjunyjjuny/codeSquad-mastersCourse/tree/main/freeSchool/part_3)|
 |4|배열과 객체연습|[codeSquad-mastersCourse/freeSchool/part_4](https://github.com/jjunyjjuny/codeSquad-mastersCourse/tree/main/freeSchool/part_4)|
 |5|할일 관리 프로그램|[codeSquad-mastersCourse/freeSchool/part_5](https://github.com/jjunyjjuny/codeSquad-mastersCourse/tree/main/freeSchool/part_5)|
+
+<br/>
+<hr/>
 
 ## CS10
 
@@ -59,6 +65,9 @@
 |9|HTTP Client|[codeSquad-mastersCourse/cs10/cs_9](https://github.com/jjunyjjuny/codeSquad-mastersCourse/tree/cs10/cs10/cs_9)|PR | Record |
 |10|차트 그리기|[codeSquad-mastersCourse/cs10/cs_10](https://github.com/jjunyjjuny/codeSquad-mastersCourse/tree/cs10/cs10/cs_10)|PR | Record |
 
+<br/>
+<hr/>
+
 ## 마스터즈 FE 클래스
 
 ### 📆 기간 
@@ -82,6 +91,9 @@
 |7| 자판기 만들기(페어) |[codesqurd-master-DD/fe-w7-vm](https://github.com/codesqurd-master-DD/fe-w7-vm)| PR | Record |
 |8| json parser |[codesqurd-master-DD/fe-w8-json-parser](https://github.com/codesqurd-master-DD/fe-w8-json-parser)| PR | Record |
 
+<br/>
+<hr/>
+
 ## 마스터즈 프로젝트
 
 ### 📆 기간
@@ -99,6 +111,9 @@
 | step | name | repository | PR | Record |
 |:---:|:---:|:---:|:---:|:---: |
 |1|todolist|[codesqurd-master-DD/todo-list](https://github.com/codesqurd-master-DD/todo-list)|PR|Record |
+
+<br/>
+<hr/>
 
 ## Deact 만들기
 
