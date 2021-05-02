@@ -111,6 +111,7 @@
 | step | name | repository | PR | Record |
 |:---:|:---:|:---:|:---:|:---: |
 |1|todolist|[codesqurd-master-DD/todo-list](https://github.com/codesqurd-master-DD/todo-list)|PR|Record |
+|2|sidedish|[GleamingStar/sidedish](https://github.com/GleamingStar/sidedish)|PR|Record |
 
 <br/>
 <hr/>
