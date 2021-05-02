@@ -116,6 +116,8 @@
 <br/>
 <hr/>
 
+# 개인 프로젝트
+
 ## Deact 만들기
 
 ### 📆 기간
@@ -144,3 +146,17 @@
 | 7 | [Pull Request](https://github.com/codesquad-members-2021/fe-w6-free-style/pull/23) |
 | 8 | [Pull Request](https://github.com/codesquad-members-2021/fe-w6-free-style/pull/51) |
 
+## Carousel Library
+
+### 📆 기간
+
+2021.04.19 ~ 2021.05.01
+
+### 🎯 학습 목표
+
+- 범용성 있는 캐로셀 라이브러리를 제작, npm에 배포해본다.
+
+### 🔥 Repository
+
+[react-carousel](https://github.com/jjunyjjuny/react-carousel)
+[npm](https://www.npmjs.com/package/@jjunyjjuny/react-carousel)
