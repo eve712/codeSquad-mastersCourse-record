@@ -146,6 +146,9 @@
 | 7 | [Pull Request](https://github.com/codesquad-members-2021/fe-w6-free-style/pull/23) |
 | 8 | [Pull Request](https://github.com/codesquad-members-2021/fe-w6-free-style/pull/51) |
 
+<br/>
+<hr/>
+
 ## Carousel Library
 
 ### 📆 기간
